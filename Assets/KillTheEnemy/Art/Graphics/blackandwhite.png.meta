@@ -1,0 +1,2492 @@
+fileFormatVersion: 2
+guid: c551588307213b1469af3101240449a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5705216374196252459
+    second: blackandwhite_0
+  - first:
+      213: -9137063763986487910
+    second: blackandwhite_1
+  - first:
+      213: -7109498782169337558
+    second: blackandwhite_2
+  - first:
+      213: -1128212536440976752
+    second: blackandwhite_3
+  - first:
+      213: 4815538355802641190
+    second: blackandwhite_4
+  - first:
+      213: 6726298841556276877
+    second: blackandwhite_5
+  - first:
+      213: 1811363269344406796
+    second: blackandwhite_6
+  - first:
+      213: 9207735840537630188
+    second: blackandwhite_7
+  - first:
+      213: 7356012458627427827
+    second: blackandwhite_8
+  - first:
+      213: 1602488767195653048
+    second: blackandwhite_9
+  - first:
+      213: 6155213677022755268
+    second: blackandwhite_10
+  - first:
+      213: 21525733753691494
+    second: blackandwhite_11
+  - first:
+      213: -1559623888733656830
+    second: blackandwhite_12
+  - first:
+      213: 8231902213411564434
+    second: blackandwhite_13
+  - first:
+      213: -4068449814330084902
+    second: blackandwhite_14
+  - first:
+      213: -7125851963417173986
+    second: blackandwhite_15
+  - first:
+      213: -6730215886544411188
+    second: blackandwhite_16
+  - first:
+      213: -2511292735349369305
+    second: blackandwhite_17
+  - first:
+      213: -798430493406760066
+    second: blackandwhite_18
+  - first:
+      213: 3156225566654350116
+    second: blackandwhite_19
+  - first:
+      213: 182545755517649069
+    second: blackandwhite_20
+  - first:
+      213: 2657180932089764176
+    second: blackandwhite_21
+  - first:
+      213: 5620129209256429251
+    second: blackandwhite_22
+  - first:
+      213: 1237534358277947336
+    second: blackandwhite_23
+  - first:
+      213: -7857109303693381170
+    second: blackandwhite_24
+  - first:
+      213: -5416339128801304775
+    second: blackandwhite_25
+  - first:
+      213: -8682628255343495576
+    second: blackandwhite_26
+  - first:
+      213: 2752589097589114104
+    second: blackandwhite_27
+  - first:
+      213: 1737690255713872023
+    second: blackandwhite_28
+  - first:
+      213: 7755326194302864131
+    second: blackandwhite_29
+  - first:
+      213: 2179384056160140347
+    second: blackandwhite_30
+  - first:
+      213: -6717876432310346609
+    second: blackandwhite_31
+  - first:
+      213: -4457082803357634199
+    second: blackandwhite_32
+  - first:
+      213: 5346985924731852386
+    second: blackandwhite_33
+  - first:
+      213: 2874864468936217436
+    second: blackandwhite_34
+  - first:
+      213: -2703212738118081530
+    second: blackandwhite_35
+  - first:
+      213: -4321346921378811239
+    second: blackandwhite_36
+  - first:
+      213: -5884155215524442448
+    second: blackandwhite_37
+  - first:
+      213: 4175792653786134271
+    second: blackandwhite_38
+  - first:
+      213: 7107114173995855387
+    second: blackandwhite_39
+  - first:
+      213: -2162131451541392553
+    second: blackandwhite_40
+  - first:
+      213: 1087001954890749765
+    second: blackandwhite_41
+  - first:
+      213: 6927718366392114312
+    second: blackandwhite_42
+  - first:
+      213: 7393569054878271565
+    second: blackandwhite_43
+  - first:
+      213: 4271420384992767465
+    second: blackandwhite_44
+  - first:
+      213: -917093003034330681
+    second: blackandwhite_45
+  - first:
+      213: 8662204076431831253
+    second: blackandwhite_46
+  - first:
+      213: -5755864549176606475
+    second: blackandwhite_47
+  - first:
+      213: -2133577908405026549
+    second: blackandwhite_48
+  - first:
+      213: 690385709373562264
+    second: blackandwhite_49
+  - first:
+      213: 5708627209150613219
+    second: blackandwhite_50
+  - first:
+      213: 1884932075839427808
+    second: blackandwhite_51
+  - first:
+      213: 4124761765151824044
+    second: blackandwhite_52
+  - first:
+      213: -8749881644101399981
+    second: blackandwhite_53
+  - first:
+      213: -6055161937953547646
+    second: blackandwhite_54
+  - first:
+      213: 7485776953538854367
+    second: blackandwhite_55
+  - first:
+      213: 8897104427101490456
+    second: blackandwhite_56
+  - first:
+      213: 5447474312473199312
+    second: blackandwhite_57
+  - first:
+      213: 9172272760237661920
+    second: blackandwhite_58
+  - first:
+      213: -7949237320248624334
+    second: blackandwhite_59
+  - first:
+      213: 3639144402095565049
+    second: blackandwhite_60
+  - first:
+      213: -8645974770050645435
+    second: blackandwhite_61
+  - first:
+      213: 1503362184727116857
+    second: blackandwhite_62
+  - first:
+      213: 3772089990679916578
+    second: blackandwhite_63
+  - first:
+      213: -3958963354131791749
+    second: blackandwhite_64
+  - first:
+      213: 6449689366319924197
+    second: blackandwhite_65
+  - first:
+      213: 9174586903432188999
+    second: blackandwhite_66
+  - first:
+      213: 5293539286197361071
+    second: blackandwhite_67
+  - first:
+      213: -9154323077343661508
+    second: blackandwhite_68
+  - first:
+      213: -8886470880219332463
+    second: blackandwhite_69
+  - first:
+      213: -6728732688447926148
+    second: blackandwhite_70
+  - first:
+      213: -7442515560654778562
+    second: blackandwhite_71
+  - first:
+      213: 583174847123981869
+    second: blackandwhite_72
+  - first:
+      213: -6687943970969733294
+    second: blackandwhite_73
+  - first:
+      213: 1473586913429296963
+    second: blackandwhite_74
+  - first:
+      213: 8451372836153952520
+    second: blackandwhite_75
+  - first:
+      213: -1486881843346576369
+    second: blackandwhite_76
+  - first:
+      213: -1088150946349511750
+    second: blackandwhite_77
+  - first:
+      213: -583184900438832907
+    second: blackandwhite_78
+  - first:
+      213: 1958302360192295667
+    second: blackandwhite_79
+  - first:
+      213: 2091452389332981774
+    second: blackandwhite_80
+  - first:
+      213: -4978234956411830381
+    second: blackandwhite_81
+  - first:
+      213: 6158155836309281490
+    second: blackandwhite_82
+  - first:
+      213: 6719633358963701674
+    second: blackandwhite_83
+  - first:
+      213: -291389082070010980
+    second: blackandwhite_84
+  - first:
+      213: 6556026729830653752
+    second: blackandwhite_85
+  - first:
+      213: 7183639169177565522
+    second: blackandwhite_86
+  - first:
+      213: 1941650062400248281
+    second: blackandwhite_87
+  - first:
+      213: -2633616579404994090
+    second: blackandwhite_88
+  - first:
+      213: -1172953587766707939
+    second: blackandwhite_89
+  - first:
+      213: -2322199792369097454
+    second: blackandwhite_90
+  - first:
+      213: -409614320174010534
+    second: blackandwhite_91
+  - first:
+      213: 709432022519830041
+    second: blackandwhite_92
+  - first:
+      213: -7559511168955709748
+    second: blackandwhite_93
+  - first:
+      213: -8905235843276633010
+    second: blackandwhite_94
+  - first:
+      213: -5413069614814221523
+    second: blackandwhite_95
+  - first:
+      213: -4519582734206590581
+    second: blackandwhite_96
+  - first:
+      213: -3507647831190052680
+    second: blackandwhite_97
+  - first:
+      213: -7370390186326037009
+    second: blackandwhite_98
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blackandwhite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226
+        width: 60
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031d61cea59b42a45b52bef305ecba37
+      internalID: 5705216374196252459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 206
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8294cc7b98b809546aca15ea75994433
+      internalID: -9137063763986487910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 226
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938d44bed47c06f4f963ed8278ad139d
+      internalID: -7109498782169337558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 226
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e871570436b7e4bad51b9148ab2640
+      internalID: -1128212536440976752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 206
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc7446d18093244094089fd6337ca41
+      internalID: 4815538355802641190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 206
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9558df3ffafab864e88085a15a30e7cd
+      internalID: 6726298841556276877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 226
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10f8508225830a4bb4deddc1ed53ce3
+      internalID: 1811363269344406796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 206
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a95bfee0567e043a69769bfd843df5
+      internalID: 9207735840537630188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 206
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33875485b02e3144788e37333b619071
+      internalID: 7356012458627427827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_9
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 206
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b930fa2ea2a0e9418d8ed74351719d5
+      internalID: 1602488767195653048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 206
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e133022556fdef34983241da3c64d219
+      internalID: 6155213677022755268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 206
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69f8bee31f659b4584fd12aa176eeb2
+      internalID: 21525733753691494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 206
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3063d4a7d113f14388e76595ac1f539
+      internalID: -1559623888733656830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_13
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 206
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51db2e2bf8efc4b4ba40940a7e8490da
+      internalID: 8231902213411564434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 206
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4950ffd877bdfe642a36f749df418428
+      internalID: -4068449814330084902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_15
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 206
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64b933ddefbca3468133033b52576fc
+      internalID: -7125851963417173986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 226
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4887d214013ca4db7fdcc9344d2ae8
+      internalID: -6730215886544411188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_17
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 226
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5950294dc3e08f48a8a599da3e591f7
+      internalID: -2511292735349369305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_18
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 226
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea23b7f1f2e66aa4abc0dc470a751659
+      internalID: -798430493406760066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 226
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30e0f7ba0491d24380e2619b2226715
+      internalID: 3156225566654350116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 226
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc10d5fd07d27d944a2d65d0bb498968
+      internalID: 182545755517649069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_21
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 230
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e068163d7cb850f439386f7eb08bd732
+      internalID: 2657180932089764176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_22
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 219
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85463ea13c0e8940a91add5ff9994f0
+      internalID: 5620129209256429251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_23
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 208
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d269bac6f6d9f364fbd7b71c19efa8d0
+      internalID: 1237534358277947336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_24
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 197
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5401dbe0b4b0c6148959c1a035b61725
+      internalID: -7857109303693381170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_25
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 186
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a912de13708fc4e91dac3bf52e0340
+      internalID: -5416339128801304775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_26
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 175
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90020eec3e3b94f4da94412d54177ca6
+      internalID: -8682628255343495576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_27
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 164
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7bce8157cb4784eba6c6fc69fe5a59
+      internalID: 2752589097589114104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_28
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 153
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b252b7c63b6ee4daaf2113cce4f397
+      internalID: 1737690255713872023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_29
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 142
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b226c1ac024d643bac5f13ffadb5f6
+      internalID: 7755326194302864131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_30
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 131
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600e16d31b702cf42aae1913130b1977
+      internalID: 2179384056160140347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_31
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 120
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde7930adac4db440979abf05232a590
+      internalID: -6717876432310346609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_32
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 109
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f0f6ee53544054e94430645837d396
+      internalID: -4457082803357634199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_33
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 100
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efdc0a910f8a414baaac140cf48a01e
+      internalID: 5346985924731852386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_34
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 91
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724dc3642c747ef4cbceaefc72c785be
+      internalID: 2874864468936217436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_35
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 82
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5fb670d99fdc5478524324aaa4ecbf
+      internalID: -2703212738118081530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_36
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 73
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d591ead8558a23a42b798238f8096701
+      internalID: -4321346921378811239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_37
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 64
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df921b462e014f40b4be0cd071b7240
+      internalID: -5884155215524442448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_38
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 55
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34d2c2099537224b96e96c03b33923f
+      internalID: 4175792653786134271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_39
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 45
+        width: 27
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e40020ce2b03b54c9ef38727ad97ee6
+      internalID: 7107114173995855387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_40
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 38
+        width: 27
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b71b194211b59d4784e1125d93ba86d
+      internalID: -2162131451541392553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_41
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 31
+        width: 27
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181d0846ae99b2b4196adcda278ad90f
+      internalID: 1087001954890749765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_42
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 230
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a6ab69e275b6540a4132c58b5ff77d
+      internalID: 6927718366392114312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_43
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 219
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eef47d3b08cdf84ba16eef638a35ba4
+      internalID: 7393569054878271565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_44
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 208
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d93b4ad527bf984eb665c1c66686d49
+      internalID: 4271420384992767465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_45
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 197
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5aa6c15c0d57c844b121a968b325658
+      internalID: -917093003034330681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_46
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 186
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e983b64145d8141b609172903adf4e
+      internalID: 8662204076431831253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_47
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 175
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc638cdeb80faa14aa65401e71b9a222
+      internalID: -5755864549176606475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_48
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 164
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76c12c5438fe8d4e93ef6383679c42c
+      internalID: -2133577908405026549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_49
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 153
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d29fb6fa9b66f41a5908de7852254a
+      internalID: 690385709373562264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_50
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 141
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56753f0b0e4b3b4a90d7c3d2950dae2
+      internalID: 5708627209150613219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_51
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 130
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5069c518b8fe7a4f8143cc39516cc48
+      internalID: 1884932075839427808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_52
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 119
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e7e823724e3fd49a899f5669da150d
+      internalID: 4124761765151824044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_53
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 108
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e67d56a4a593b4d90250d5a4a83084
+      internalID: -8749881644101399981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_54
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 100
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493db15e3af36cf47a585fa99d81a9c9
+      internalID: -6055161937953547646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_55
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 91
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5ec5f44bff2c54e8f67c8cfad9a335
+      internalID: 7485776953538854367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_56
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 82
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0778e3f587af8646a1f5d6e6b236e84
+      internalID: 8897104427101490456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_57
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 73
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009febd7a1eccbb41b5430e22522538d
+      internalID: 5447474312473199312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_58
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 64
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4f7e4667facc443a6c45b9a66771c0
+      internalID: 9172272760237661920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_59
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 55
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7ab03d2d812a74090a1e95274a58d1
+      internalID: -7949237320248624334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_60
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 45
+        width: 27
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f70e6560a039d046ad65b99e2809869
+      internalID: 3639144402095565049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_61
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 37
+        width: 27
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f15cb654e690c4d8d5f7cbb46370a0
+      internalID: -8645974770050645435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_62
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 30
+        width: 27
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6337038cd7e0b14589b4a3b2f2593a0
+      internalID: 1503362184727116857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_63
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 90
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa41331788bdf2419722c94347cdc04
+      internalID: 3772089990679916578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_64
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 91
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0d586ed3f8bca4888e2a52c5d0e02e
+      internalID: -3958963354131791749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_65
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 90
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab12ee089e9b14469f0b73f3e4e6549
+      internalID: 6449689366319924197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_66
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 91
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735aacf551f1eb14497623fb3569ee6b
+      internalID: 9174586903432188999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_67
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 91
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55877cc24b5bb234596b4853403d5f84
+      internalID: 5293539286197361071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_68
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 91
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3961d488cf9150942b163d21f83bd713
+      internalID: -9154323077343661508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_69
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 148
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e08f73a220762479be957c9ee2c936
+      internalID: -8886470880219332463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_70
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 148
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf2c2c80451f6741b8fef8e7f2e2cf6
+      internalID: -6728732688447926148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_71
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 129
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef7fd3b39e79bd48bde382ef4d47525
+      internalID: -7442515560654778562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_72
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 183
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fe880f57f3d5d4daf1caf486c4ffd1
+      internalID: 583174847123981869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_73
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 163
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4d96a37aab4b347a8074ef13822762
+      internalID: -6687943970969733294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_74
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 174
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff51d57bed42ecf47b6fdc10b5e28152
+      internalID: 1473586913429296963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_75
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 163
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf21a7e1ffaff1341b05caa6c4ffa6f1
+      internalID: 8451372836153952520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_76
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 174
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed570ca41c177947a2aaccd0c25aa6a
+      internalID: -1486881843346576369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_77
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 183
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb558107bab79d444a9e2ee85993c45a
+      internalID: -1088150946349511750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_78
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 99
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef05ed9598943541832a3b9df3ca596
+      internalID: -583184900438832907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_79
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 99
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3d08ad528c1644ab5e719dcc8450da
+      internalID: 1958302360192295667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_80
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 134
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0895dafdd4560d10800000000000000
+      internalID: 2091452389332981774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_81
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 10
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ff3a6dea1c9eab0800000000000000
+      internalID: -4978234956411830381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_82
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 10
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da96b61b1a267550800000000000000
+      internalID: 6158155836309281490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_83
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa775e510fee04d50800000000000000
+      internalID: 6719633358963701674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_84
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c933ac77c27c4fbf0800000000000000
+      internalID: -291389082070010980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_85
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f9581539fabfa50800000000000000
+      internalID: 6556026729830653752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_86
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259396983c961b360800000000000000
+      internalID: 7183639169177565522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_87
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 84
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d95b77c17022fa10800000000000000
+      internalID: 1941650062400248281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_88
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 84
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d96cfdaca3837bd0800000000000000
+      internalID: -2633616579404994090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_89
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 230
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19352f2de4d8bfe0800000000000000
+      internalID: -1172953587766707939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_90
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 47
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215aa56a793e5cfd0800000000000000
+      internalID: -2322199792369097454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_91
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 47
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f6d1f22f1c05af0800000000000000
+      internalID: -409614320174010534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_92
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 47
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916d49e6aa868d900800000000000000
+      internalID: 709432022519830041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_93
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 47
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc60cc2d4a8371790800000000000000
+      internalID: -7559511168955709748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_94
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 19
+        width: 55
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c8b68be2f3a6480800000000000000
+      internalID: -8905235843276633010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_95
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 11
+        width: 28
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ba9807dd9e0e4b0800000000000000
+      internalID: -5413069614814221523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_96
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 143
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81a0a2f2773741c0800000000000000
+      internalID: -4519582734206590581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_97
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 143
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b06fb0c1e4525fc0800000000000000
+      internalID: -3507647831190052680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackandwhite_98
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 20
+        width: 55
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fede200fc2d17b990800000000000000
+      internalID: -7370390186326037009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
